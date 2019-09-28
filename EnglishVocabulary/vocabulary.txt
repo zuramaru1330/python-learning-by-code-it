@@ -1,0 +1,12 @@
+cat: 고양이
+apple: 사과
+church: 교회
+temple: 절
+wallet: 지갑
+backpack: 책가방
+soap: 비누
+bicycle: 자전거
+professional: 전문가
+business: 사업
+job: 직업
+position: 위치
